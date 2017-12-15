@@ -18,9 +18,8 @@ will be successive samples from the middle of the input sound:
     B----------------L
                  \\\\\
                  F-----------------A
-    
-    where F and L are the first and last sample, respectively, 
-    of the original sound. A and B
-    are two successive samples midway through the sound,
-    and the \'s indicate cross-fading.
-    
+
+where F and L are the first and last sample, respectively, 
+of the original sound. A and B
+are two successive samples midway through the sound,
+and the \'s indicate cross-fading.
